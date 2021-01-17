@@ -1,0 +1,2 @@
+# Real--Estate
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1e3e97620de64b69b2cf1f22004ac76c)](https://app.codacy.com/gh/otjake/Real--Estate?utm_source=github.com&utm_medium=referral&utm_content=otjake/Real--Estate&utm_campaign=Badge_Grade)
